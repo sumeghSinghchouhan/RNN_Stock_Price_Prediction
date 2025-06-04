@@ -14,7 +14,7 @@ Data related to stock markets lends itself well to modeling using RNNs due to it
 Data Description
 You have been provided with four CSV files corresponding to four stocks: AMZN, GOOGL, IBM, and MSFT. The files contain historical data that were gathered from the websites of the stock markets where these companies are listed: NYSE and NASDAQ. The columns in all four files are identical. Let's take a look at them:
 
-Date: The values in this column specify the date on which the values were recorded. In all four files, the dates range from Jaunary 1, 2006 to January 1, 2018.
+Date: The values in this column specify the date on which the values were recorded.
 
 Open: The values in this column specify the stock price on a given date when the stock market opens.
 
