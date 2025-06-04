@@ -29,3 +29,13 @@ Volume: The values in this column specify the total number of shares traded on a
 Name: This column gives the official name of the stock as used in the stock market.
 
 There are 3019 records in each data set. The file names are of the format \<company_name>_stock_data.csv.
+
+## Contact
+Created by Sunil, Sumegh
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
