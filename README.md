@@ -30,6 +30,10 @@ Name: This column gives the official name of the stock as used in the stock mark
 
 There are 3019 records in each data set. The file names are of the format \<company_name>_stock_data.csv.
 
+## Acknowledgements
+
+- This project was inspired by Upgrad IIIT Bangalore PG program on ML and AI.
+
 ## Contact
 Created by Sunil, Sumegh
 
